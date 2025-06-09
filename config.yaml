@@ -1,0 +1,7 @@
+llm:
+  provider: "gemini"
+  model: "models/gemini-1.5-flash"
+  api_keys:
+    - "AIzaSyDkUr7S1ApXITaO8kaW_aqzmdicxfDKKcU"
+    - "AIzaSyBPRZE_bWkmteliz04Nzho3kbGgdHR3xvs"
+    - "AIzaSyYourThirdKeyHere"

@@ -1,0 +1,28 @@
+{
+    "mt5": {
+      "symbol": "BTCUSDm",
+      "slippage": 10
+    },
+    "strategy": {
+      "timeframe": "M1",
+      "lot_size": 0.01,
+      "sl_atr_multiplier": 1.2,
+      "tp_atr_multiplier": 1.5
+    },
+    "account": {
+      "daily_start_balance": 10
+    },
+    "whatsapp": {
+      "phone": "+923055546805",
+      "apikey": "your_callmebot_api_key"
+    },
+
+    "llm": {
+      "GEMINI_API_KEYS": []
+      }
+
+    
+  }
+  
+  
+  

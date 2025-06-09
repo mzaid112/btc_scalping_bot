@@ -1,0 +1,10 @@
+
+[ERROR] record_trade_summary() missing 3 required positional arguments: 'entry_price', 'exit_price', and 'lot'
+[ERROR] record_trade_summary() missing 1 required positional argument: 'lot'
+[ERROR] can't multiply sequence by non-int of type 'float'
+[ERROR] can't multiply sequence by non-int of type 'float'
+[ERROR] can't multiply sequence by non-int of type 'float'
+[ERROR] can't multiply sequence by non-int of type 'float'
+[ERROR] can't multiply sequence by non-int of type 'float'
+[ERROR] cannot access local variable 'df_candles' where it is not associated with a value
+[LLM ERROR] 504 Deadline Exceeded
